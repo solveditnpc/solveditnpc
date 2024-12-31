@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm @solveditnpc
 
-![Visitor Count](https://profile-counter.glitch.me/solveditnpc/count.svg)
+![](https://komarev.com/ghpvc/?username=solveditnpc&style=flat-square&color=blue)
 > Note: This count includes 2.1k+ views transferred from [nhentai_downloader](https://github.com/solveditnpc/nhentai_downloader.git)
 
 ## About Me
