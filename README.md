@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm @solveditnpc
 
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=solveditnpc.solveditnpc&left_color=black&right_color=blue&left_text=Total%20Views)
+![](https://img.shields.io/badge/Total%20Views-2.1k+-blue?style=flat-square)
 > Note: This count includes 2.1k+ views transferred from [nhentai_downloader](https://github.com/solveditnpc/nhentai_downloader.git)
 
 ## About Me
