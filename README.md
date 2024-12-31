@@ -2,6 +2,10 @@
 
 ![Visitor Count](https://profile-counter.glitch.me/solveditnpc/count.svg)
 
+## 📊 Visitor Statistics
+![Total Profile Views](https://komarev.com/ghpvc/?username=solveditnpc&color=brightgreen&style=for-the-badge&label=TOTAL+VIEWS)
+![Daily Visitors](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsolveditnpc&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Daily+Visitors&edge_flat=true)
+
 ## About Me
 I'm a developer passionate about solving problems and creating solutions. You can reach me at neutralwritergithubdedicated@gmail.com.
 
@@ -23,12 +27,26 @@ I'm a developer passionate about solving problems and creating solutions. You ca
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 
+## ⚡ Detailed GitHub Statistics
+
+### 📈 Overall Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=solveditnpc&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
+
+### 💻 Language Distribution
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=solveditnpc&layout=compact&theme=radical&hide_border=true)
+
+### 🔥 Contribution Streak
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=solveditnpc&theme=radical&hide_border=true)
+
+### 📊 Activity Graph
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=solveditnpc&theme=react-dark&hide_border=true)
+
+### 🏆 Trophy Cabinet
+![Trophy](https://github-profile-trophy.vercel.app/?username=solveditnpc&theme=radical&row=1&column=6)
+
 ## 📫 How to reach me
 - Email: neutralwritergithubdedicated@gmail.com
 - GitHub: [@solveditnpc](https://github.com/solveditnpc)
-
-## ⚡ GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=solveditnpc&show_icons=true&theme=radical)
 
 ## 🤝 Let's Connect
 Feel free to reach out if you want to collaborate on projects or just want to say hi!
