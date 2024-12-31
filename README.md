@@ -1,10 +1,7 @@
 # 👋 Hi there, I'm @solveditnpc
 
 ![Visitor Count](https://profile-counter.glitch.me/solveditnpc/count.svg)
-
-## 📊 Visitor Statistics
-![Total Profile Views](https://komarev.com/ghpvc/?username=solveditnpc&color=brightgreen&style=for-the-badge&label=TOTAL+VIEWS)
-![Daily Visitors](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsolveditnpc&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Daily+Visitors&edge_flat=true)
+> Note: This count includes 2.1k+ views transferred from [nhentai_downloader](https://github.com/solveditnpc/nhentai_downloader.git)
 
 ## About Me
 I'm a developer passionate about solving problems and creating solutions. You can reach me at neutralwritergithubdedicated@gmail.com.
