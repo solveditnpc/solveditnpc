@@ -1,7 +1,7 @@
 # 👋 Hi there, I'm @solveditnpc
 
 ![](https://img.shields.io/badge/Total%20Views-2.1k+-blue?style=flat-square)
-> Note: This count includes 2.1k+ views transferred from [nhentai_downloader](https://github.com/solveditnpc/nhentai_downloader.git)
+> Note: This count includes 2.1k+ views from [nhentai_downloader] repository (https://github.com/solveditnpc/nhentai_downloader.git)
 
 ## About Me
 I'm a developer passionate about solving problems and creating solutions. You can reach me at neutralwritergithubdedicated@gmail.com.
