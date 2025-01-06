@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm @solveditnpc
 
-![Total Profile Views](https://komarev.com/ghpvc/?username=solveditnpc&color=blue&style=flat-square&label=Total+Profile+Views)
+![Total Views Across All Repositories](https://komarev.com/ghpvc/?username=solveditnpc&color=blue&style=flat-square&label=Total+Profile+Views)
 
 ## About Me
 I'm a developer passionate about solving problems and creating solutions. You can reach me at neutralwritergithubdedicated@gmail.com.
@@ -24,9 +24,6 @@ I'm a developer passionate about solving problems and creating solutions. You ca
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 
 ## ⚡ Detailed GitHub Statistics
-
-### 📈 Overall Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=solveditnpc&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
 
 ### 💻 Language Distribution
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=solveditnpc&layout=donut&theme=radical&hide_border=true&langs_count=8&size_weight=0.5&count_weight=0.5)
