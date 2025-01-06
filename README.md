@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm @solveditnpc
 
-![](https://komarev.com/ghpvc/?username=solveditnpc&color=blue&style=flat-square&label=Profile+Views)
+![Total Profile Views](https://komarev.com/ghpvc/?username=solveditnpc&color=blue&style=flat-square&label=Total+Profile+Views)
 
 ## About Me
 I'm a developer passionate about solving problems and creating solutions. You can reach me at neutralwritergithubdedicated@gmail.com.

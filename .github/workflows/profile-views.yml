@@ -10,9 +10,20 @@ jobs:
     steps:
       - uses: actions/checkout@v3
       
-      - name: Update Profile Views
+      - name: Get Repository List
+        id: repo-list
+        uses: actions/github-script@v6
+        with:
+          script: |
+            const { data: repos } = await github.rest.repos.listForUser({
+              username: 'solveditnpc',
+              type: 'all'
+            });
+            return repos.map(repo => repo.name);
+
+      - name: Update Views Counter for Each Repository
         uses: antonkomarev/github-profile-views-counter@v1.0.0
         with:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USER_ID: solveditnpc
-          REPOSITORY_NAME: solveditnpc
+          COUNT_PRIVATE: true
