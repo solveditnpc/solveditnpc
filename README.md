@@ -1,7 +1,6 @@
 # 👋 Hi there, I'm @solveditnpc
 
 ![](https://img.shields.io/badge/Total%20Views-2.1k+-blue?style=flat-square)
-> Note: This count includes 2.1k+ views from [nhentai_downloader] repository (https://github.com/solveditnpc/nhentai_downloader.git)
 
 ## About Me
 I'm a developer passionate about solving problems and creating solutions. You can reach me at neutralwritergithubdedicated@gmail.com.
@@ -30,7 +29,7 @@ I'm a developer passionate about solving problems and creating solutions. You ca
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=solveditnpc&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
 
 ### 💻 Language Distribution
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=solveditnpc&layout=compact&theme=radical&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=solveditnpc&layout=donut&theme=radical&hide_border=true&langs_count=8&size_weight=0.5&count_weight=0.5)
 
 ### 🔥 Contribution Streak
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=solveditnpc&theme=radical&hide_border=true)
@@ -39,11 +38,10 @@ I'm a developer passionate about solving problems and creating solutions. You ca
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=solveditnpc&theme=react-dark&hide_border=true)
 
 ### 🏆 Trophy Cabinet
-![Trophy](https://github-profile-trophy.vercel.app/?username=solveditnpc&theme=radical&row=1&column=6)
+![Trophy](https://github-profile-trophy.vercel.app/?username=solveditnpc&theme=radical&row=2&column=4&margin-w=15&margin-h=15&no-frame=true)
 
 ## 📫 How to reach me
 - Email: neutralwritergithubdedicated@gmail.com
-- GitHub: [@solveditnpc](https://github.com/solveditnpc)
 
 ## 🤝 Let's Connect
 Feel free to reach out if you want to collaborate on projects or just want to say hi!
