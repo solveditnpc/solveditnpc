@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm @solveditnpc
 
-![](https://img.shields.io/badge/Total%20Views-2.1k+-blue?style=flat-square)
+![](https://komarev.com/ghpvc/?username=solveditnpc&color=blue&style=flat-square&label=Profile+Views)
 
 ## About Me
 I'm a developer passionate about solving problems and creating solutions. You can reach me at neutralwritergithubdedicated@gmail.com.
@@ -36,9 +36,6 @@ I'm a developer passionate about solving problems and creating solutions. You ca
 
 ### 📊 Activity Graph
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=solveditnpc&theme=react-dark&hide_border=true)
-
-### 🏆 Trophy Cabinet
-![Trophy](https://github-profile-trophy.vercel.app/?username=solveditnpc&theme=radical&row=2&column=4&margin-w=15&margin-h=15&no-frame=true)
 
 ## 📫 How to reach me
 - Email: neutralwritergithubdedicated@gmail.com
