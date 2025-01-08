@@ -2,11 +2,12 @@
 
 ## 📊 Profile Views
 [![Total Profile Views](https://komarev.com/ghpvc/?username=solveditnpc&color=blue&style=flat-square&label=Profile+Views)](https://github.com/solveditnpc)
-
+(real time)
 ## All repositories counter 
 
 [![Image of https://github.com/solveditnpc/my-views-counter](https://github.com/solveditnpc/my-views-counter/blob/master/svg/profile/badge.svg)](https://github.com/solveditnpc/my-views-counter)
 [![Unique Visitors](https://img.shields.io/badge/Unique%20Visitors-90-blue?style=flat-square)](https://github.com/solveditnpc/my-views-counter)
+(updates every 6 hours)
 
 ## About Me
 I'm a developer passionate about solving problems and creating solutions. You can reach me at neutralwritergithubdedicated@gmail.com.
