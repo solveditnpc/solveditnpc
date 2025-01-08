@@ -1,6 +1,9 @@
 # 👋 Hi there, I'm @solveditnpc
 
-![Total Views Across All Repositories](https://komarev.com/ghpvc/?username=solveditnpc&color=blue&style=flat-square&label=Total+Profile+Views)
+## 📊 Profile Views
+[![Total Profile Views](https://komarev.com/ghpvc/?username=solveditnpc&color=blue&style=flat-square&label=Profile+Views)](https://github.com/solveditnpc)
+[![Total Repository Views](https://img.shields.io/badge/Total%20Views-589-blue?style=flat-square)](https://github.com/solveditnpc/my-views-counter)
+[![Unique Visitors](https://img.shields.io/badge/Unique%20Visitors-90-blue?style=flat-square)](https://github.com/solveditnpc/my-views-counter)
 
 ## About Me
 I'm a developer passionate about solving problems and creating solutions. You can reach me at neutralwritergithubdedicated@gmail.com.
