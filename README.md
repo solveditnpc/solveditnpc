@@ -6,7 +6,7 @@
 ## All repositories counter 
 
 [![Image of https://github.com/solveditnpc/my-views-counter](https://github.com/solveditnpc/my-views-counter/blob/master/svg/profile/badge.svg)](https://github.com/solveditnpc/my-views-counter)
-[![Unique Visitors](https://img.shields.io/badge/Unique%20Visitors-112-blue?style=flat-square)](https://github.com/solveditnpc/my-views-counter)
+[![Unique Visitors](https://img.shields.io/badge/Unique%20Visitors-131-blue?style=flat-square)](https://github.com/solveditnpc/my-views-counter)
 (updates every 6 hours)
 
 ## About Me
