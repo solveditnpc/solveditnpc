@@ -3,10 +3,9 @@
 ## 📊 Profile Views
 [![Total Profile Views](https://komarev.com/ghpvc/?username=solveditnpc&color=blue&style=flat-square&label=Profile+Views)](https://github.com/solveditnpc)
 *Updated in real-time via GitHub API*
-## All repositories counter 
+## Popular repositories counter 
 
 [![Image of https://github.com/solveditnpc/my-views-counter](https://github.com/solveditnpc/my-views-counter/blob/master/svg/profile/badge.svg)](https://github.com/solveditnpc/my-views-counter)
-[![Unique Visitors](https://img.shields.io/badge/Unique%20Visitors-153-blue?style=flat-square)](https://github.com/solveditnpc/my-views-counter)
 *Statistics updated daily via automated pipeline*
 
 ## About Me
