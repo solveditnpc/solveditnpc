@@ -28,9 +28,9 @@ I'm a developer passionate about solving problems and creating solutions. You ca
 
 ## ⚡ Detailed GitHub Statistics
 
-<a href="[https://github.com/solveditnpc">](https://github.com/solveditnpc">)
-    <img src="[https://raw.githubusercontent.com/solveditnpc/github-stats-transparent/output/generated/overview.svg#gh-dark-mode-only"](https://raw.githubusercontent.com/solveditnpc/github-stats-transparent/output/generated/overview.svg#gh-dark-mode-only") />
-    <img src="[https://raw.githubusercontent.com/solveditnpc/github-stats-transparent/output/generated/languages.svg#gh-dark-mode-only"](https://raw.githubusercontent.com/solveditnpc/github-stats-transparent/output/generated/languages.svg#gh-dark-mode-only") />
+<a href="https://github.com/solveditnpc">
+    <img src="https://raw.githubusercontent.com/solveditnpc/github-stats-transparent/output/generated/overview.svg#gh-dark-mode-only" />
+    <img src="https://raw.githubusercontent.com/solveditnpc/github-stats-transparent/output/generated/languages.svg#gh-dark-mode-only" />
 </a>
 
 ## 📫 How to reach me
