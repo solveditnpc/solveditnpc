@@ -28,20 +28,13 @@ I'm a developer passionate about solving problems and creating solutions. You ca
 
 ## ⚡ Detailed GitHub Statistics
 
-### 💻 Language Distribution
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=solveditnpc&layout=donut&theme=radical&hide_border=true&langs_count=8&size_weight=0.5&count_weight=0.5)
-
-### 🔥 Contribution Streak
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=solveditnpc&theme=radical&hide_border=true)
-
-### 📊 Activity Graph
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=solveditnpc&theme=react-dark&hide_border=true)
+<a href="[https://github.com/solveditnpc">](https://github.com/solveditnpc">)
+    <img src="[https://raw.githubusercontent.com/solveditnpc/github-stats-transparent/output/generated/overview.svg#gh-dark-mode-only"](https://raw.githubusercontent.com/solveditnpc/github-stats-transparent/output/generated/overview.svg#gh-dark-mode-only") />
+    <img src="[https://raw.githubusercontent.com/solveditnpc/github-stats-transparent/output/generated/languages.svg#gh-dark-mode-only"](https://raw.githubusercontent.com/solveditnpc/github-stats-transparent/output/generated/languages.svg#gh-dark-mode-only") />
+</a>
 
 ## 📫 How to reach me
 - Email: neutralwritergithubdedicated@gmail.com
-
-## 🤝 Let's Connect
-Feel free to reach out if you want to collaborate on projects or just want to say hi!
 
 ---
 ⭐️ From [solveditnpc](https://github.com/solveditnpc)
